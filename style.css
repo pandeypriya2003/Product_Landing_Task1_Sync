@@ -1,0 +1,232 @@
+*{
+    margin: 0%;
+    padding: 0%;
+    background-image: url("bg.jpg");
+}
+.items{
+    padding: 5px;
+}
+.logo{
+    width: 150px;
+    height: 50px;
+    padding: 5px;
+}
+header{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 13px;
+    display: flex;
+    align-items: center;
+    justify-content: start;
+    padding: 10px;
+    color:black;
+    flex-direction: row;
+}
+.menu{
+    display: flex;
+    flex-direction: row;
+    margin-left: 750px;
+}
+.m1{
+    transition: 0.3s ease-in-out;
+    margin-left: 30px;
+    margin-right: 30px;
+}
+.m1:hover{
+    color: red;
+}
+.shoe{
+    width: 250px;
+    height: 230px;
+    padding-left: 10px;
+}
+.headphone{
+    width: 250px;
+    height: 230px;
+    padding-left: 80px;
+}
+.phone{
+    width: 250px;
+    height: 230px;
+    padding-left: 80px;
+}
+.laptop{
+    width: 250px;
+    height: 230px;
+    padding-left: 80px;
+}
+.row1{
+    padding-top: 10px;
+}
+.row2{
+    display: flex;
+    flex-direction:row;
+    padding: 10px;
+    font-size: 15px;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+.name2{
+    margin-left: 135px;
+}
+.name3{
+    margin-left: 165px;
+}
+.name4{
+    margin-left: 170px;
+}
+.row3{
+    display: flex;
+    flex-direction: row;
+    padding: 10px;
+    justify-content: space-between;
+    color: green;
+}
+.mrp2{
+    margin-left: 34px;
+}
+.mrp3{
+    margin-left: 55px;
+}
+.mrp4{
+    margin-right: 210px;
+}
+
+.two{
+    margin-left: 265px;
+}
+.three{
+    margin-left: 260px;
+}
+.four{
+    margin-left: 270px;
+}
+.row5{
+    display: flex;
+    flex-direction: row;
+    font-size: 15px;
+}
+.five{
+    display: flex;
+    flex-direction: row;
+    margin-left: 5px;
+}
+.six{
+    margin-left: 255px;
+    display: flex;
+    flex-direction: row;
+    
+}
+.seven{
+    margin-left: 150px ;
+    display: flex;
+    flex-direction: row;
+    
+}
+.eight{
+    margin-left: 250px;
+    display: flex;
+    flex-direction: row;
+    
+}
+
+.row6{
+    display: flex;
+    flex-direction: row;
+}
+.use1{
+    margin-left: 4px;
+    font-size: 20px;
+    font-weight: bold;
+}
+.use2{
+    margin-left: 220px;
+    font-size: 20px;
+    font-weight: bold;
+}
+.use3{
+    margin-left: 133px;
+    font-size: 20px;
+    font-weight: bold;
+}
+.use4{
+    margin-left: 167px;
+    font-size: 20px;
+    font-weight: bold;
+}
+.row7{
+    display: flex;
+    flex-direction: row;
+    font-size: 15px;
+    padding-bottom: 10px;
+}
+.use5{
+    margin-left: 4px;
+}
+.use6{
+    margin-left: 295px;
+}
+.use7{
+    margin-left: 145px;
+}
+.use8{
+    margin-left: 230px;
+}
+.row9{
+    display: flex;
+    flex-direction: row;
+    font-size: 15px;
+    padding: 5px;
+}
+.w2{
+    margin-left: 218px;
+}
+.w3{
+    margin-left: 222px;
+}
+.w4{
+    margin-left: 223px;
+}
+.row10{
+    display: flex;
+    flex-direction: row;
+    font-size: 15px;
+}
+.r1{
+    margin-left: 5px;
+}
+.r2{
+    margin-left: 265px;
+    padding: 10px;
+}
+.r3{
+    margin-left: 270px;
+    padding: 10px;
+}
+.r4{
+    margin-left: 235px;
+    padding: 10px;
+}
+.row11{
+    display: flex;
+    flex-direction: row;
+    font-size: 15px;
+}
+.b1{
+    margin-left: 5px;
+}
+.b2{
+    margin-left: 290px;
+}
+.b3{
+    margin-left: 280px;
+}
+.b4{
+    margin-left: 290px;
+}
+.btn{
+    color: black;
+    padding: 5px;
+    transition: 0.3s ease-in-out;
+}
+.btn:hover{
+    color: red;
+}
